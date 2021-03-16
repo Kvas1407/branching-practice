@@ -1,0 +1,61 @@
+[33mcommit ef9ec8f588b69a3984addb80d6f4b3a575b7f5ef[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Keerthivasan <Keerthik1407@gmail.com>
+Date:   Tue Mar 16 15:10:03 2021 -0400
+
+    Conflict been addressed while merging Branch 'origin/b' with the master branch
+
+[33mcommit 43c5e460b4320b5cbc94046536201fd2bb503cbd[m
+Merge: 761f260 0ecd6ad
+Author: Keerthivasan <Keerthik1407@gmail.com>
+Date:   Tue Mar 16 15:06:23 2021 -0400
+
+    Response loop of the conversation from Branch 'origin/b' has been added to the master for completing the conversation history
+
+[33mcommit 761f260d39ef0fa529eefac0e1cc7e9ae35c81f1[m
+Author: Keerthivasan <Keerthik1407@gmail.com>
+Date:   Tue Mar 16 15:01:22 2021 -0400
+
+    Conflict addressed while merging Branch 'origin d' with the master
+
+[33mcommit f75b9f2b71471eeb9a716bc0958152e4da2b1732[m
+Merge: 9e41b28 2879cc3
+Author: Keerthivasan <Keerthik1407@gmail.com>
+Date:   Tue Mar 16 14:58:16 2021 -0400
+
+    Added the Second loop of the conversation from Branch 'origin/d' to the master to bring the entire conversation in action
+
+[33mcommit 2879cc3a614ad4b4b8e25e157d6e73757bfb82c8[m[33m ([m[1;31morigin/d[m[33m)[m
+Author: Jesse Mykolyn <jrmykolyn@gmail.com>
+Date:   Tue Mar 2 21:38:53 2021 -0500
+
+    A response is given
+
+[33mcommit 0ecd6add8fa800b65c639d65fdc08cf8e58d2ef4[m[33m ([m[1;31morigin/b[m[33m)[m
+Author: Jesse Mykolyn <jrmykolyn@gmail.com>
+Date:   Tue Mar 2 21:37:26 2021 -0500
+
+    Checking in
+
+[33mcommit 9e41b28c8e7b7e9dd01318e3adf39d62ca16a515[m[33m ([m[1;31morigin/a[m[33m)[m
+Author: Jesse Mykolyn <jrmykolyn@gmail.com>
+Date:   Tue Mar 2 21:34:10 2021 -0500
+
+    The conversation begins
+
+[33mcommit cad56cd905d33982e8a1972afed930f3f322acf9[m
+Author: Jesse Mykolyn <jrmykolyn@gmail.com>
+Date:   Tue Mar 2 21:33:05 2021 -0500
+
+    Add conversation file
+
+[33mcommit 092d407659346cdc9c3a046edeaacd3463b7b016[m
+Author: Jesse Mykolyn <jrmykolyn@gmail.com>
+Date:   Tue Mar 2 21:21:47 2021 -0500
+
+    chore(readme): Add exercise overview
+
+[33mcommit 979b32b08a228fb9633c32d486dd5bcdd8b39d6a[m
+Author: Jesse Mykolyn <jrmykolyn@gmail.com>
+Date:   Tue Mar 2 21:17:59 2021 -0500
+
+    Initial commit
